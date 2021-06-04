@@ -15,13 +15,11 @@
 							data-margin="30"
 							data-responsive='{"0":{"items":"1"},"480":{"items":"2"},"768":{"items":"3"},"992":{"items":"3"},"1200":{"items":"4"}}' >
 
-							<div class="team-member equal-elem" ">
+							<div class="team-member equal-elem">
 								<div class="media">
 									<a href="#" title="BRIAN">
 										<figure><img src="{{asset('images/brian.jpg')}}" alt="BRIAN"
-											style="
-    height: 210px;
-"></figure>
+											style="height: 210px;"></figure>
 									</a>
 								</div>
 								<div class="info">
